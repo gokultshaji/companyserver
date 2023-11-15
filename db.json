@@ -1,0 +1,52 @@
+{
+  "company": [
+    {
+      "id": 3,
+      "name": "Dr.TNR Infotech",
+      "email": "tnr@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 4,
+      "name": "Nihira Techiees",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 5,
+      "name": "NT Techiees",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 6,
+      "name": "NT Technologies",
+      "email": "nihiratechiees@gmail.com",
+      "phone": "8989898989",
+      "Address": "No 2, vijaya nager,\nchennai, India",
+      "type": "MNC"
+    },
+    {
+      "id": 7,
+      "name": "cognizant",
+      "email": "cognizant@gmail.com",
+      "phone": "8787655443",
+      "Address": "cognizant,\ninfopark kochi\n",
+      "type": "MNC"
+    },
+    {
+      "id": 8,
+      "name": "global Technologies",
+      "email": "global123@gmail.com",
+      "phone": "98761213234",
+      "Address": "global technologies,\nchennai",
+      "type": "MNC"
+    }
+  ]
+}
